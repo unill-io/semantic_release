@@ -29,6 +29,20 @@ defmodule Mix.Tasks.SemanticRelease.Install do
       Nodelix.VersionManager.install(node_version)
     end
 
+    # TODO: add a Mix task directly in nodelix?
+    Logger.debug("Updating npm version ...")
+
+    node_bin_path = Nodelix.VersionManager.bin_path(:npm, node_version)
+    node_prefix = node_bin_path |> Path.split() |> Enum.drop(-2) |> Path.join()
+
+    Mix.Tasks.Nodelix.Npm.run([
+      "install",
+      "--global",
+      "--prefix",
+      node_prefix,
+      "npm@latest"
+    ])
+
     Logger.debug("Installing dependencies ...")
 
     Mix.Tasks.Nodelix.Npm.run(

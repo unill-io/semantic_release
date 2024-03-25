@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.0-alpha.4](https://github.com/talent-ideal/semantic_release/compare/v1.0.0-alpha.3...v1.0.0-alpha.4) (2024-03-25)
+
+
+### 🐛 Bug Fixes
+
+* update npm during installation ([db9db53](https://github.com/talent-ideal/semantic_release/commit/db9db53cc3e6a22cb4a899214c4540ed25fb5888)), closes [#2](https://github.com/talent-ideal/semantic_release/issues/2)
+
 ## [1.0.0-alpha.3](https://github.com/talent-ideal/semantic_release/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2023-12-10)
 
 

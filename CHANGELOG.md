@@ -1,5 +1,28 @@
 # Changelog
 
+## [1.0.0-alpha.5](https://github.com/talent-ideal/semantic_release/compare/v1.0.0-alpha.4...v1.0.0-alpha.5) (2024-05-04)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency nodelix to == 1.0.0-alpha.10 ([#6](https://github.com/talent-ideal/semantic_release/issues/6)) ([93a434b](https://github.com/talent-ideal/semantic_release/commit/93a434b41919f6f832b8bcbaff435f86761f3d1d))
+
+
+### ⚙️ Continuous Integrations
+
+* **action:** update actions/cache action to v4 ([#15](https://github.com/talent-ideal/semantic_release/issues/15)) ([a08f54e](https://github.com/talent-ideal/semantic_release/commit/a08f54effa1adba15d18f7bdf021687986b6bfe0))
+* **action:** update actions/checkout action to v4.1.4 ([#8](https://github.com/talent-ideal/semantic_release/issues/8)) ([92271e4](https://github.com/talent-ideal/semantic_release/commit/92271e46b518fb3eb3c87b9d87c6380df249a595))
+* **action:** update erlef/setup-beam action to v1.17.5 ([#11](https://github.com/talent-ideal/semantic_release/issues/11)) ([85fd170](https://github.com/talent-ideal/semantic_release/commit/85fd17040c7e45c573fa6b6ce8604beb19fdce01))
+* **action:** update insurgent-lab/is-in-pr-action action to v0.2.0 ([#12](https://github.com/talent-ideal/semantic_release/issues/12)) ([b9c02c2](https://github.com/talent-ideal/semantic_release/commit/b9c02c2027fe7bcc9bda1b619002109633479c2b))
+* **renovate:** configure renovate ([c7dc4d4](https://github.com/talent-ideal/semantic_release/commit/c7dc4d4d271768471d81f25f53889b44098f2538))
+* **renovate:** disable erlang / elixir updates ([1b5da45](https://github.com/talent-ideal/semantic_release/commit/1b5da454203ffda3a84e03491fc48ef6fbd894b5))
+
+
+### ♻️ Chores
+
+* **readme:** add Hex.pm badges ([26d9849](https://github.com/talent-ideal/semantic_release/commit/26d98499e20b4d14f6e58bbb2ac0d7cf031aca93))
+* remove old nodejs related stuff ([a136984](https://github.com/talent-ideal/semantic_release/commit/a136984ca6f87a1468011d1bb487ce604d045e77))
+
 ## [1.0.0-alpha.4](https://github.com/talent-ideal/semantic_release/compare/v1.0.0-alpha.3...v1.0.0-alpha.4) (2024-03-25)
 
 

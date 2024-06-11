@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.0-alpha.6](https://github.com/talent-ideal/semantic_release/compare/v1.0.0-alpha.5...v1.0.0-alpha.6) (2024-06-11)
+
+### 🛠 Builds
+
+* **deps:** upgrade dependency nodelix to 1.0.0-alpha.11 ([ebae37c](https://github.com/talent-ideal/semantic_release/commit/ebae37c9b48b5ec5d0802c20b24e8f399f90ebcc))
+
+### ⚙️ Continuous Integrations
+
+* **action:** update actions/checkout action to v4.1.6 ([#17](https://github.com/talent-ideal/semantic_release/issues/17)) ([ed710f5](https://github.com/talent-ideal/semantic_release/commit/ed710f585d6adb66b41471766af2b5639b94ac4b))
+
 ## [1.0.0-alpha.5](https://github.com/talent-ideal/semantic_release/compare/v1.0.0-alpha.4...v1.0.0-alpha.5) (2024-05-04)
 
 

@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.0-alpha.7](https://github.com/talent-ideal/semantic_release/compare/v1.0.0-alpha.6...v1.0.0-alpha.7) (2024-06-20)
+
+### 🛠 Builds
+
+* **deps:** update dependency nodelix to v1.0.0-alpha.12 ([786c16e](https://github.com/talent-ideal/semantic_release/commit/786c16e65b5aa635ef2c041e7a0b9a2b71f295e4))
+
+### ♻️ Chores
+
+* fix renovate config ([1618387](https://github.com/talent-ideal/semantic_release/commit/1618387bec75001a769d395d5a4661f416b19bf0))
+
 ## [1.0.0-alpha.6](https://github.com/talent-ideal/semantic_release/compare/v1.0.0-alpha.5...v1.0.0-alpha.6) (2024-06-11)
 
 ### 🛠 Builds

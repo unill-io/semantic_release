@@ -3,9 +3,9 @@
 [![Hex.pm Version](https://img.shields.io/hexpm/v/semantic_release.svg)](https://hex.pm/packages/semantic_release)
 [![Hex.pm Docs](https://img.shields.io/badge/hex-docs-lightgreen.svg)](https://hexdocs.pm/semantic_release/)
 [![Hex.pm Downloads](https://img.shields.io/hexpm/dw/semantic_release.svg)](https://hex.pm/packages/semantic_release)
-[![Last Commit](https://img.shields.io/github/last-commit/talent-ideal/semantic_release.svg)](https://github.com/talent-ideal/semantic_release/)
+[![Last Commit](https://img.shields.io/github/last-commit/unill-io/semantic_release.svg)](https://github.com/unill-io/semantic_release/)
 
-Mix tasks for installing and running [`semantic-release`](https://github.com/semantic-release/semantic-release/) (and the adapter plugin [`semantic-release-hex`](https://github.com/talent-ideal/semantic-release-hex/)) in Elixir projects.
+Mix tasks for installing and running [`semantic-release`](https://github.com/semantic-release/semantic-release/) (and the adapter plugin [`semantic-release-hex`](https://github.com/unill-io/semantic-release-hex/)) in Elixir projects.
 
 > **⚠️ WARNING**
 >

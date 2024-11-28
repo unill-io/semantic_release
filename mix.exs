@@ -2,7 +2,7 @@ defmodule SemanticRelease.MixProject do
   use Mix.Project
 
   @version "1.0.0-alpha.7"
-  @source_url "https://github.com/talent-ideal/semantic_release"
+  @source_url "https://github.com/unill-io/semantic_release"
 
   def project do
     [

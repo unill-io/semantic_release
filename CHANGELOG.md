@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.0.0-alpha.8](https://github.com/unill-io/semantic_release/compare/v1.0.0-alpha.7...v1.0.0-alpha.8) (2025-01-09)
+
+### 🛠 Builds
+
+* **deps:** update minimum nodelix version to 1.0.0-alpha.14 ([b29bf28](https://github.com/unill-io/semantic_release/commit/b29bf28544aeb02925f287a9ddb98fb70ed14a4e))
+
+### ⚙️ Continuous Integrations
+
+* **action:** update actions/cache action to v4.2.0 ([#22](https://github.com/unill-io/semantic_release/issues/22)) [skip ci] ([19d90bf](https://github.com/unill-io/semantic_release/commit/19d90bf6c11d623a9d7d3faa0443a510cff61fac))
+* **action:** update actions/checkout action to v4.2.2 ([#23](https://github.com/unill-io/semantic_release/issues/23)) [skip ci] ([5f766c5](https://github.com/unill-io/semantic_release/commit/5f766c51acbfd53acae5fb75c56daa202beb97d8))
+* **action:** update erlef/setup-beam action to v1.18.2 ([#24](https://github.com/unill-io/semantic_release/issues/24)) [skip ci] ([575d59d](https://github.com/unill-io/semantic_release/commit/575d59dd715a87b9d9fb69caefc2a80c9a325a75))
+
+### ♻️ Chores
+
+* **config:** migrate renovate config ([#25](https://github.com/unill-io/semantic_release/issues/25)) [skip ci] ([f6725d8](https://github.com/unill-io/semantic_release/commit/f6725d83bc5bf37f0312d8e06528876cdbdf1036))
+* **deps:** update lock nodelix version to 1.0.0-alpha.13 ([9dd9f1d](https://github.com/unill-io/semantic_release/commit/9dd9f1d99eb0a86ad1c27d6e643a81e846a48319))
+* update repository URL & copyright owner ([460cc2f](https://github.com/unill-io/semantic_release/commit/460cc2f72fa285d0bbf8d97c175807a7a7a07870))
+
 ## [1.0.0-alpha.7](https://github.com/unill-io/semantic_release/compare/v1.0.0-alpha.6...v1.0.0-alpha.7) (2024-06-20)
 
 ### 🛠 Builds

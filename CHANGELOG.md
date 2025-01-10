@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.0-alpha.9](https://github.com/unill-io/semantic_release/compare/v1.0.0-alpha.8...v1.0.0-alpha.9) (2025-01-10)
+
+### 🛠 Builds
+
+* **deps:** update minimum nodelix version to 1.0.0-alpha.15 ([0a1a28b](https://github.com/unill-io/semantic_release/commit/0a1a28b609acaff968cc3e0c5df9a7fdd92eb19d))
+
 ## [1.0.0-alpha.8](https://github.com/unill-io/semantic_release/compare/v1.0.0-alpha.7...v1.0.0-alpha.8) (2025-01-09)
 
 ### 🛠 Builds
